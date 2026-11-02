@@ -38,7 +38,7 @@ class About extends Me {
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **System Engineering**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 
-<div align="space-between" >
+<div align="center" >
 <a  href="https://github.com/Ocrail">
 
 <img src="https://raw.githubusercontent.com/Ocrail/Cards-Github-Profile/main/profile-summary-card-output/nord_dark/3-stats.svg" width="30%">
