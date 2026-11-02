@@ -39,11 +39,13 @@ class About extends Me {
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 
 <div align="center">
-<a  href="https://github.com/Ocrail">
-<img src="https://raw.githubusercontent.com/Ocrail/Cards-Github-Profile/main/profile-summary-card-output/nord_dark/3-stats.svg" width="32%">
-<img src="https://raw.githubusercontent.com/Ocrail/Cards-Github-Profile/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32%">
-<img src="https://raw.githubusercontent.com/Ocrail/Cards-Github-Profile/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32%">
-</a>
+<table>
+<tr>
+<td width="33%"><a href="https://github.com/Ocrail"><img src="https://raw.githubusercontent.com/Ocrail/Cards-Github-Profile/main/profile-summary-card-output/nord_dark/3-stats.svg" width="100%"></a></td>
+<td width="33%"><a href="https://github.com/Ocrail"><img src="https://raw.githubusercontent.com/Ocrail/Cards-Github-Profile/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="100%"></a></td>
+<td width="33%"><a href="https://github.com/Ocrail"><img src="https://raw.githubusercontent.com/Ocrail/Cards-Github-Profile/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="100%"></a></td>
+</tr>
+</table>
 
 <details>
   <summary>More stats</summary>
