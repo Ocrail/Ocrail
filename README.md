@@ -2,7 +2,7 @@
 <h1><b>Hello Guys Ocrail is here</b></h1>
 <h3>This is my Github profile</h3>
   
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
+![Totals Hits](https://komarev.com/ghpvc/?username=Ocrail&style=flat&color=orange&label=PROFILE+VIEWS)
 [![telegram badge](https://img.shields.io/badge/Ocrail-grey?style=flat&logo=telegram)](https://t.me/Ocraildev) <br>
 </div>
 
