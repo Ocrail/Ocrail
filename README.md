@@ -1,8 +1,6 @@
 <div align="center" width="50">
-
-<img src="https://avatars.githubusercontent.com/u/65989882?v=4" href="https://github.com/Ocrail" alt="Ocrail" width="25%" style = " border-radius : 12px; " /> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%" /><br> 
-
+<h1><b>Hello Guys Ocrail is here</b></h1>
+<h3>This is my Github profile</h3>
 <details>
 <p><strong> <summary>  Busy coding & Vibing to :   </summarDetailsy> </strong></p>
 
