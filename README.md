@@ -6,7 +6,7 @@
 <details>
 <p><strong> <summary>  Busy coding & Vibing to :   </summarDetailsy> </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+![Spotify](https://open.spotify.com/user/316ulbs7tcc5zlx2gz4rliy53vtm) <be>
 
 </details>
 
@@ -34,12 +34,11 @@
 
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+    "ProgramingLanguages" : { "c", "c++" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Markdown" },
+    "Editors" : { "Vscode","Neovim" },
+    "Platforms" : {"GNU/Linux"},
+    "OtherTools" : {"Git"}
   };
 }
 ```
