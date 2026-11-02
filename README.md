@@ -1,16 +1,9 @@
 <div align="center" width="50">
 <h1><b>Hello Guys Ocrail is here</b></h1>
 <h3>This is my Github profile</h3>
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summarDetailsy> </strong></p>
-
-![Spotify](https://open.spotify.com/user/316ulbs7tcc5zlx2gz4rliy53vtm) <be>
-
-</details>
-
+  
 ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/Ocraildev) <br>
 </div>
 
 <hr></hr>
